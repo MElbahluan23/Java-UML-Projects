@@ -13,4 +13,4 @@ Evaluation
 
 Deployment
 
-                        "Not to make good  prediction or accurcy"
+                        # "Not to make good  prediction or accurcy"
