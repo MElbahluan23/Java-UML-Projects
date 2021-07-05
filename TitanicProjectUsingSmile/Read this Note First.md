@@ -1,4 +1,4 @@
-This Project i`m just trying to use SMILE Package to Make End-End prjoect by following this step:
+#This Project i`m just trying to use SMILE Package to Make End-End prjoect by following this step:
 
 
 Business understanding
@@ -13,4 +13,4 @@ Evaluation
 
 Deployment
 
-                        # "Not to make good  prediction or accurcy"
+                        "Not to make good  prediction or accurcy"
